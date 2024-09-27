@@ -9,7 +9,7 @@
       "value": "myAppServicePlan"
     },
     "webAppName": {
-      "value": "myWebApp"
+      "value": "copilotWebApp"
     }
   }
 }
